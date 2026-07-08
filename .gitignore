@@ -63,3 +63,7 @@ Gemfile.lock
 documents
 temp
 venv
+
+.env
+.env.local
+*.env
